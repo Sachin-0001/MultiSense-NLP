@@ -1,0 +1,1 @@
+{"max_length": 50, "emotion_labels": ["sadness", "joy", "love", "anger", "fear", "surprise"], "violence_labels": ["sexual_violence", "physical_violence", "emotional_violence", "harmful_traditional_practice", "economic_violence"], "hate_labels": ["neither", "offensive_language", "hate_speech"]}
